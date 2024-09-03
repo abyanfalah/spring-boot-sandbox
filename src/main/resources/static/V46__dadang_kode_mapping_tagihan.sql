@@ -1,0 +1,1 @@
+ALTER TABLE mapping_tagihan ADD kode_mapping_tagihan VARCHAR(50);
